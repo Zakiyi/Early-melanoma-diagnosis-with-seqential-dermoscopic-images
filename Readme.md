@@ -6,7 +6,8 @@ Pytorch implementation of [early melanoma diagnosis with sequential dermoscopic 
 
 
 
-Reference
+For more details, please refer our IEEE TMI paper:
+
 ```
 @article{yu2021early,
   title={Early Melanoma Diagnosis with Sequential Dermoscopic Images},
