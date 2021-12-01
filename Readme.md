@@ -4,7 +4,7 @@ Pytorch implementation of [early melanoma diagnosis with sequential dermoscopic 
 
 <img src="https://github.com/Zakiyi/Early-melanoma-diagnosis-with-seqential-dermoscopic-images/blob/main/figures/lesion_evo.png" alt="drawing" width="400"/>
 
-<img src="https://github.com/Zakiyi/Early-melanoma-diagnosis-with-seqential-dermoscopic-images/blob/main/figures/framwork.jpeg" alt='drawing' width="400"/>
+<img src="https://github.com/Zakiyi/Early-melanoma-diagnosis-with-seqential-dermoscopic-images/blob/main/figures/framwork.jpeg" alt='drawing' width="800"/>
 
 For more details, please refer our IEEE TMI paper:
 
